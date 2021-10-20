@@ -1,0 +1,92 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #E2C275;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-bottom: 100px;
+  line-height: 1.5;
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+h2{
+  font-size: 2.5rem;
+  line-height: 2;
+  padding: 10px 0;
+  font-weight: bold;
+  width: 80%;
+  margin: auto;
+}
+
+.container-fluid {
+  padding: 2% 5%;
+}
+
+.dropdown {
+  padding-bottom: 3%;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.iphonefirst {
+  padding-left: 100px;
+  transform: rotate(20deg);
+  width: 50%;
+}
+
+.features-in-one {
+  padding: 10%;
+  text-align: center;
+  line-height: 2;
+}
+
+.features-icons {
+
+  color: #E2C275;
+  margin-bottom: 1rem;
+}
+
+.features-icons:hover {
+  color: #C36A2D;
+}
+
+.features-p {
+  width: 60%;
+  margin: auto;
+}
+
+#testimonials{background-color:#E2C275;
+  text-align: center;
+  padding: 5% 10%;
+  color: #fff;
+ }
+ #press{background-color:#E2C275;
+ text-align: center;
+padding: 5% 5%;
+}
+.press-logo{
+  width: 20%;
+  padding: 20px 30px;
+}
+
+.dog-picture{
+  border-radius: 100%;
+  width: 15%;
+}
+<a class="carousel-control-prev" role="button" href="#carouselExampleControls" data-bs-slide="prev">
+  <span class="carousel-control-prev-icon" >Previous</span>
+  <span class="visually-hidden">Previous</span>
+</a>
+<a class="carousel-control-next" role="button" href="#carouselExampleControls" data-bs-slide="next">
+  <span class="carousel-control-next-icon" >Next</span>
+  <span class="visually-hidden">Next</span>
